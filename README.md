@@ -49,6 +49,7 @@ python main_version2.py --image_path="sample.jpg" --model_path="yolov8n.pt"
 ## pip install -r requirements.txt
 
 # 🧠 Learning Outcomes
+
 Understand the power of abstraction in large-scale projects
 
 Learn how teams collaborate and divide responsibilities
