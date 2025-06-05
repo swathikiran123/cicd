@@ -42,9 +42,12 @@ cd your-repo-name
 # Run the pipeline
 python main_version2.py --image_path="sample.jpg" --model_path="yolov8n.pt"
 
+
 ✅ Make sure to install required dependencies:
 
-pip install -r requirements.txt
+
+## pip install -r requirements.txt
+
 # 🧠 Learning Outcomes
 Understand the power of abstraction in large-scale projects
 
